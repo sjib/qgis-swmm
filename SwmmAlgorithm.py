@@ -38,6 +38,13 @@ from processing.core.GeoAlgorithm import GeoAlgorithm
 from processing.core.GeoAlgorithmExecutionException import \
         GeoAlgorithmExecutionException
 from processing.core.ProcessingLog import ProcessingLog
+# from processing.parameters import ParameterVector
+# from processing.parameters import ParameterTable
+# from processing.parameters import ParameterString
+# from processing.parameters import ParameterNumber
+# from processing.parameters import ParameterFile
+# from processing.parameters import Parameter
+# from processing.outputs import OutputVector
 from processing.core.parameters import ParameterVector
 from processing.core.parameters import ParameterTable
 from processing.core.parameters import ParameterString
@@ -45,6 +52,8 @@ from processing.core.parameters import ParameterNumber
 from processing.core.parameters import ParameterFile
 from processing.core.parameters import Parameter
 from processing.core.outputs import OutputVector
+
+# from processing.outputs import OutputTable
 from processing.core.outputs import OutputTable
 from processing.core.ProcessingConfig import ProcessingConfig
 from processing.tools import dataobjects
