@@ -101,9 +101,9 @@ Open QGIS, click on 'Add Postgis Layer', configure a new connection to swmm_test
 - timeseries
 - xsections
 
-Open the processing toobox and double-click on the incon Swmm... -> Simulation -> Simulate...
+Open the processing toolbox and double-click on the icon Swmm... -> Simulation -> Simulate...
 
-If you are running a fresh buid from QGIS master, the name of the parameters are already set (recognized from layer names). If you running an older version of QGIS, you must set the following parameter:
+If you are running a fresh build from QGIS master, the name of the parameters are already set (recognized from layer names). If you running an older version of QGIS, you must set the following parameter:
 
 - Analysis options -> options
 - Output reporting instruction -> report
@@ -119,7 +119,7 @@ If you are running a fresh buid from QGIS master, the name of the parameters are
 - x-y tabular data references in other sections -> curves
 - Time series data referenced in other sections -> timeseries
 
-Then click on Run. Three result layers should appear in the project once the simualtion is complete.
+Then click on Run. Three result layers should appear in the project once the simulation is complete.
 
 
 Credits
